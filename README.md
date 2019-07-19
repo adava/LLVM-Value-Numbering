@@ -165,3 +165,4 @@ becomes:
 
 To avoid confusion, I print out both the LLVM instructions and the simplified version (more  
 readable) I work with.
+![](https://github.com/adava/LLVM-Value-Numbering/raw/master/docs/VN-output.jpg)
