@@ -1,0 +1,4 @@
+/home/sina/Desktop/llvm-cs202/HelloPass-LLVM/Pass/build/CMakeFiles/rebuild_cache.dir
+/home/sina/Desktop/llvm-cs202/HelloPass-LLVM/Pass/build/CMakeFiles/edit_cache.dir
+/home/sina/Desktop/llvm-cs202/HelloPass-LLVM/Pass/build/CMakeFiles/intrinsics_gen.dir
+/home/sina/Desktop/llvm-cs202/HelloPass-LLVM/Pass/build/CMakeFiles/LLVMValueNumberingPass.dir
